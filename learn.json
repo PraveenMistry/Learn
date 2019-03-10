@@ -1,0 +1,1324 @@
+{
+  "iOS 11": [
+    {
+      "title": "iOS 11 iPhone GUI",
+      "desciption": "Origami, Sketch, and Photoshop templates of GUI elements found in the public release of iOS 11.",
+      "image": "http://facebook.design/public/images/ios11_header.png",
+      "link": "http://facebook.design/ios11"
+    },
+    {
+      "title": "iOS 11 UI Kits for Sketch",
+      "desciption": "Crafted based on previous version of this kit and Apple’s official design resource, with additional wireframe elements, helps you quickly explore ideas and design app.",
+      "image": "http://guikit.design/img/ic_sketch@2x.png",
+      "link": "http://guikit.design/"
+    },
+    {
+      "title": "iOS 11 GUI by Great Simple Studio",
+      "desciption": "Screens and components of iOS 11 for iPhone X and iPhone 8.",
+      "image": "https://rm-content.s3-accelerate.amazonaws.com/56fd5ecfedf7a42502965830/858804/upload-4397cd00-b581-11e7-b1b3-6dfbdb8c33f4.png",
+      "link": "https://iosdesignkit.io/ios-11-gui/"
+    },
+    {
+      "title": "Swift Playgrounds",
+      "desciption": "Learn serious code on your iPad. In a seriously fun way.",
+      "image": "https://images.apple.com/v/swift/playgrounds/d/images/overview/icon_swift_medium_2x.png",
+      "link": "https://www.apple.com/swift/playgrounds/?utm_source=DesignCode"
+    },
+    {
+      "title": "San Francisco Font",
+      "desciption": "The system font for iOS, macOS, tvOS, and watchOS.",
+      "image": "https://developer.apple.com/fonts/images/font-hero_2x.png",
+      "link": "https://developer.apple.com/fonts/"
+    },
+    {
+      "title": "iOS 11 Human Interface Guidelines",
+      "desciption": "With iOS 11, you can deliver more powerful, user-friendly apps than ever before.",
+      "image": "https://help.apple.com/ios/tips/11/iphone/en/Art/C_WhatsNew-Web@2x~iphone.png",
+      "link": "https://developer.apple.com/ios/human-interface-guidelines/overview/themes/"
+    },
+    {
+      "title": "Apple Watch GUI for Sketch",
+      "desciption": "New version includes over 50 band combinations!",
+      "image": "https://designcode.io/cloud/watchgui/image-watch2.jpg",
+      "link": "https://v1.designcode.io/watch"
+    },
+    {
+      "title": "Angle: 260 Vector Devices & Mockups for Sketch",
+      "desciption": "Just launched my biggest project since Design+Code! 260 mockups entirely made in vector.",
+      "image": "https://designcode.io/cloud/mar1/15.jpg",
+      "link": "https://v1.designcode.io/angle"
+    },
+    {
+      "title": "Facebook Design Resources",
+      "desciption": "The design team at Facebook released a really good iOS 9 UI Kit and device hands for presentation.",
+      "image": "https://facebook.design/public/images/logo-fb.svg",
+      "link": "https://facebook.design/"
+    },
+    {
+      "title": "Free Device Templates for Sketch",
+      "desciption": "Great collection of Apple Device templates made by Robbie Pearce.",
+      "image": "https://robbiepearce.com/images/watch-b.png",
+      "link": "https://robbiepearce.com/devices"
+    },
+    {
+      "title": "Android 8.0 Oreo Kit Sketch Resource",
+      "desciption": "Must-download if you're designing for Android.",
+      "image": "https://www.sketchappsources.com/resources/source-image/oreo-material-live-stephkelly.png",
+      "link": "https://www.sketchappsources.com/free-source/3038-android-oreo-kit-sketch-freebie-resource.html"
+    },
+    {
+      "title": "The iOS Design Guidelines",
+      "desciption": "The most complete iOS design guidelines I've come across. An essential read.",
+      "image": "https://ivomynttinen.com/assets/images/favicons/android-chrome-192x192.png",
+      "link": "https://ivomynttinen.com/blog/ios-design-guidelines"
+    },
+    {
+      "title": "tvOS Human Interface Guidelines",
+      "desciption": "Whether you’re building a game, a streaming media app, or a utility for the home, keep the following principles in mind as you imagine your app’s identity.",
+      "image": "https://developer.apple.com/tvos/human-interface-guidelines/images/overview-connected_poster_2x.png",
+      "link": "https://developer.apple.com/tvos/human-interface-guidelines/overview/themes/"
+    },
+    {
+      "title": "Designing at 1x",
+      "desciption": "With so many pixel densities to deal with, it’s time to design at 1x. Here’s a good workflow.",
+      "image": "https://cdn-images-1.medium.com/max/1600/1*hcwyekA6LYD2AC3dsIDZTQ.png",
+      "link": "https://medium.com/sketch-app-sources/designing-at-1x-33240842180c"
+    },
+    {
+      "title": "Apple WWDC Videos",
+      "desciption": "Get insights into designing and developing for\niPhone, Apple Watch, and Apple TV.",
+      "image": "https://developer.apple.com/videos/images/videos-wwdc17-hero_2x.jpg",
+      "link": "https://developer.apple.com/videos/"
+    },
+    {
+      "title": "What's new in Swift 4.0",
+      "desciption": "Hands-on code examples to help you learn what's new in Swift 4",
+      "image": "https://www.hackingwithswift.com/img/swift_logo@2x.png",
+      "link": "https://www.hackingwithswift.com/swift4"
+    }
+  ],
+  "Learn Sketch": [
+    {
+      "title": "Sketch 4",
+      "desciption": "Sketch is a design toolkit built to help you create your best work — from your earliest ideas, through to final artwork.",
+      "image": "https://sketchapp.com/images/social-facebook.jpg",
+      "link": "https://www.sketchapp.com/"
+    },
+    {
+      "title": "Learn Sketch",
+      "desciption": "A comprehensive tutorial on how to use Sketch 4 and how to switch from Photoshop.",
+      "image": "https://designcode.io/cloud/sketch4/sketch-learn.jpg",
+      "link": "https://designcode.io/sketch-learn"
+    },
+    {
+      "title": "Craft by InVision LABS",
+      "desciption": "Essential Sketch plugin that generates and duplicate content on the fly. Must-download.",
+      "image": "https://www.invisionapp.com/subsystems/labs/assets/craft-assets/static/social/facebook.jpg",
+      "link": "https://labs.invisionapp.com/craft"
+    },
+    {
+      "title": "Zeplin",
+      "desciption": "Design hand-off has never been easier. Generate styleguides and resources, automatically.",
+      "image": "https://zeplin.io/img/sneakpeek/ssTypeface@2x.png",
+      "link": "https://zeplin.io/"
+    },
+    {
+      "title": "Magic Mirror Plugin for Sketch",
+      "desciption": "Magic Mirror is a Sketch extension (or called plugin) that adds Perspective Transformation to Sketch, so users can create perspective mockups and other distorted effect to their UI design.",
+      "image": "http://magicsketch.io/mirror/images/magicmirror_hero_logo.svg",
+      "link": "http://magicsketch.io/mirror/"
+    },
+    {
+      "title": "Powerful Start in Sketch",
+      "desciption": "Strong Foundations for your Sketch Workflow",
+      "image": "https://designcode.io/cloud/sketch4/sketch-start.jpg",
+      "link": "https://designcode.io/sketch-start"
+    },
+    {
+      "title": "Sketch Palettes",
+      "desciption": "A Sketch plugin for exporting and importing fill presets. It supports colors, gradients, and Pattern fills.",
+      "image": "https://github.com/andrewfiorillo/sketch-palettes/raw/master/palettes.png",
+      "link": "https://github.com/andrewfiorillo/sketch-palettes"
+    },
+    {
+      "title": "Printable device sketch sheet templates",
+      "desciption": "A collection of printable Sketch templates for iOS and Web.",
+      "image": "http://sketchsheets.com/sketchsheets/iPhone5/Portrait/iPhone5-Portrait-Standard-x4/thumb.png",
+      "link": "http://sketchsheets.com/"
+    },
+    {
+      "title": "Magic Presenter",
+      "desciption": "Great plugin for creating a presentation right within Sketch.",
+      "image": "http://magicsketch.io/presenter/images/magicpresenter_hero_logo.svg",
+      "link": "http://magicsketch.io/presenter/"
+    },
+    {
+      "title": "Sketch App Rocks!",
+      "desciption": "Brand new site for Sketch users. Lots of great resources.",
+      "image": "http://sketchapp.rocks/wp-content/themes/sketchapprocks/images/sketchapprocks.png",
+      "link": "http://sketchapp.rocks/"
+    },
+    {
+      "title": "Sketch Master",
+      "desciption": "Training courses to make you a master of the most popular screen-based design tool.",
+      "image": "https://static1.squarespace.com/static/ta/573a589c86db43d036604426/968/assets/sketch-master-logo-a-270.png",
+      "link": "http://sketchmaster.com/"
+    },
+    {
+      "title": "Abstract",
+      "desciption": "Abstract is a platform\nfor modern design teams\nto work together.",
+      "image": "https://www.goabstract.com/images/icons/android-icon-192x192.png",
+      "link": "https://www.goabstract.com/"
+    },
+    {
+      "title": "Mira",
+      "desciption": "Real-time preview while designing in Sketch.",
+      "image": "http://mirapp.io/css/screenshot@2x.png",
+      "link": "http://mirapp.io/"
+    },
+    {
+      "title": "Sketch App Sources",
+      "desciption": "Free design resources and plugins - Icons, UI Kits, Wireframes, iOS, Android Templates for Sketch",
+      "image": "https://www.sketchappsources.com/images/sketch-app-sources-rose2x.png",
+      "link": "https://www.sketchappsources.com/"
+    },
+    {
+      "title": "Why Your App Looks Better in Sketch",
+      "desciption": "Exploring rendering differences between Sketch and iOS",
+      "image": "https://cdn-images-1.medium.com/max/2000/1*MOcAlyqfmddQ0Ytpjw6ORA.jpeg",
+      "link": "https://medium.com/@nathangitter/why-your-app-looks-better-in-sketch-3a01b22c43d7"
+    },
+    {
+      "title": "Sketch Shortcuts",
+      "desciption": "A list of Keyboard Shortcuts for Sketch App.",
+      "image": "http://sketchshortcuts.com/images/mac@2x.png",
+      "link": "http://sketchshortcuts.com/"
+    },
+    {
+      "title": "PaintCode Code Generator Plugin for Sketch",
+      "desciption": "Convert your Sketch drawings into Swift or Objective-C",
+      "image": "https://www.paintcodeapp.com/images/plugin-sheet.png",
+      "link": "https://www.paintcodeapp.com/sketch"
+    },
+    {
+      "title": "Sketch Repo",
+      "desciption": "One of the best places to find Sketch resources.",
+      "image": "https://d1ukwyn8ipd9ce.cloudfront.net/resources/sketchrepo_share_new.png",
+      "link": "https://sketchrepo.com/"
+    },
+    {
+      "title": "Sketch Casts",
+      "desciption": "A weekly screencast teaching essential techniques in Sketch. There is a 30sec preview for each video and their first 3 episodes are free.",
+      "image": "https://pbs.twimg.com/profile_images/556015680537890818/zds5E4uI_400x400.png",
+      "link": "https://www.sketchcasts.net/"
+    },
+    {
+      "title": "Sketch Runner",
+      "desciption": "Runner helps you to get around Sketch quicker by giving you an intuitive interface to supercharge your daily workflow.",
+      "image": "http://sketchrunner.com/img/logo-big.svg",
+      "link": "http://sketchrunner.com/"
+    },
+    {
+      "title": "Find and Replace for Sketch",
+      "desciption": "Finds text in selected layer(s) and all layers contained within - and replaces it with different text. Features partial, case sensitive and full-document matching.",
+      "image": "https://raw.githubusercontent.com/thierryc/Sketch-Find-And-Replace/master/Ressources/logo-256.png",
+      "link": "https://github.com/thierryc/Sketch-Find-And-Replace"
+    },
+    {
+      "title": "Sketch Icon Font",
+      "desciption": "This plugin helps you easily insert and manage icons from icon fonts.",
+      "image": "https://camo.githubusercontent.com/c4ee3244a7f7f4b35d3c0d985c218e421a09ac1d/687474703a2f2f6b6572656d2e77732f696d616765732f766964656f62672e706e67",
+      "link": "https://github.com/keremciu/sketch-iconfont"
+    },
+    {
+      "title": "Automate Sketch",
+      "desciption": "Make your workflow more efficient.",
+      "image": "https://github.com/Ashung/Automate-Sketch/raw/master/automate-sketch.png",
+      "link": "https://github.com/Ashung/Automate-Sketch"
+    },
+    {
+      "title": "How to create a Design System in Sketch ",
+      "desciption": "The foundations that need to be laid to start building up a powerful Design System",
+      "image": "https://cdn-images-1.medium.com/max/2000/1*yL8DOsoRZ2PYWQ6P5Ws0DQ.jpeg",
+      "link": "https://medium.com/sketch-app-sources/how-to-create-a-design-system-in-sketch-part-one-fd450dccab10"
+    },
+    {
+      "title": "Design at 1x—It’s a Fact",
+      "desciption": "The tangible benefits of designing at 1x pixel density",
+      "image": "https://cdn-images-1.medium.com/max/2000/1*6jwQx9bHz8s4nagTVctKhQ.png",
+      "link": "https://medium.com/shyp-design/design-at-1x-its-a-fact-249c5b896536"
+    },
+    {
+      "title": "Pixel Density, Demystified",
+      "desciption": "How pixel density works and how it affects your designs.",
+      "image": "https://cdn-images-1.medium.com/max/2000/1*UgW8HxkCJUST8Hu2ghWfmQ@2x.jpeg",
+      "link": "https://medium.com/@pnowelldesign/pixel-density-demystified-a4db63ba2922"
+    },
+    {
+      "title": "States of the artboard",
+      "desciption": "Create different states and switch between them easily. Just like layer comps for Sketch.",
+      "image": "https://daks2k3a4ib2z.cloudfront.net/574f0289c3c4633629a7737b/576853c4ac4e38d314c12f69_share.png",
+      "link": "http://states.design/"
+    },
+    {
+      "title": "Sketch Focus Plugin",
+      "desciption": "Add notes and todos directly in Sketch. Also does a lot more.",
+      "image": "https://sketchfocus.com/web/assets/img/focus.svg",
+      "link": "https://sketchfocus.com/"
+    },
+    {
+      "title": "Sketch to VR",
+      "desciption": "Design your own VR experience directly in Sketch.",
+      "image": "https://raw.githubusercontent.com/auxdesigner/Sketch-to-VR/master/_mock.png",
+      "link": "https://github.com/auxdesigner/Sketch-to-VR"
+    },
+    {
+      "title": "The Beginner’s Guide to Writing Sketch Plugins",
+      "desciption": "Excellent series on starting your very first Sketch plugin.",
+      "image": "https://cdn-images-1.medium.com/max/1600/1*DW5QN1na_zD8dgZM6S141w.png",
+      "link": "https://medium.com/@marianomike/the-beginners-guide-to-writing-sketch-plugins-part-1-28a5e3f01c68"
+    },
+    {
+      "title": "Slicer",
+      "desciption": "Your friendly Sketch slicing helper",
+      "image": "https://github.com/ozzik/Slicer/raw/master/docs/assets/slicer@2x.png",
+      "link": "https://github.com/ozzik/slicer"
+    }
+  ],
+  "Learn Xcode": [
+    {
+      "title": "Beginning iOS Programming with Swift",
+      "desciption": "Simon has been writing great iOS tutorials for years. He's just launched his book which will allow you to learn Swift from scratch, all the way to launching your own app. He kindly offered a 20% discount code \"designcode\" to Design+Code readers!",
+      "image": "/cloud/appcoda.png",
+      "link": "http://www.appcoda.com/swift/"
+    },
+    {
+      "title": "Kite - Your programming copilot",
+      "desciption": "A real-time documentation for your code. Looks really useful.",
+      "image": "https://designcode.io/cloud/apr19/2.jpg",
+      "link": "https://kite.com/?utm_source=DesignCode"
+    },
+    {
+      "title": "iOS Goodies",
+      "desciption": "Excellent weekly iOS resources that listed in a simple page.",
+      "image": "/cloud/Screen%20Shot%202014-06-18%20at%201.06.02%20AM.png",
+      "link": "http://ios-goodies.com/"
+    },
+    {
+      "title": "Think and Build iOS Tutorials",
+      "desciption": "A great source for high quality Swift tutorials.",
+      "image": "https://designcode.io/cloud/mar25/thinkandbuild.jpg",
+      "link": "http://www.thinkandbuild.it/"
+    },
+    {
+      "title": "Design with Swift",
+      "desciption": "A full chapter on UI and animations using Swift, made for designers and complete beginners. You get to design in Sketch, learn Swift Playground, edit the UI in Storyboards and execute really cool animations.",
+      "image": "/cloud/designwithswift.jpeg",
+      "link": "http://designcode.io/swift-design"
+    },
+    {
+      "title": "Alcatraz",
+      "desciption": "A GUI package manager for installing plugins, templates, CocoaPods and color schemes for Xcode.",
+      "image": "/cloud/Screen%20Shot%202014-06-16%20at%2010.53.52%20PM.png",
+      "link": "http://alcatraz.io/"
+    },
+    {
+      "title": "Fabric - Twitter’s Mobile Development Platform",
+      "desciption": "Implement Crashlytics, Twitter Login and Analytics in a few guided steps. Really useful.",
+      "image": "https://designcode.io/cloud/learn29/IMG_0117.jpg",
+      "link": "https://get.fabric.io/"
+    },
+    {
+      "title": "Iconic.swift",
+      "desciption": "Use vector font icons directly in Swift.",
+      "image": "https://designcode.io/cloud/july6/2.jpg",
+      "link": "https://github.com/dzenbot/Iconic?utm_source=DesignCode"
+    },
+    {
+      "title": "Raywenderlich",
+      "desciption": "The biggest collection of iOS tutorials for both apps and games. For beginners to advanced users.",
+      "image": "/cloud/Image%202014-06-16%20at%2010.54.56%20PM.png",
+      "link": "http://www.raywenderlich.com/"
+    },
+    {
+      "title": "Swift Developer Weekly",
+      "desciption": "There are tons of great Swift resources out there. This wonderful newsletter hand-picks the best ones and send them out weekly.",
+      "image": "https://designcode.io/cloud/swift-developer-weekly.png",
+      "link": "http://swiftdevweekly.co/"
+    },
+    {
+      "title": "Spring: iOS Animation Library in Swift",
+      "desciption": "With Spring, you can animate without code in Storyboard. Great for prototyping, and more.",
+      "image": "https://designcode.io/cloud/icon@120.png",
+      "link": "https://github.com/mengto/spring"
+    },
+    {
+      "title": "Open-source iOS and Android libraries",
+      "desciption": "List of well-crafted iOS and Android controls by Ramotion.",
+      "image": "https://designcode.io/cloud/june8/10.jpg",
+      "link": "https://www.behance.net/gallery/37148547/Open-Source-iOS-and-Android-Controls?utm_source=DesignCode"
+    },
+    {
+      "title": "Realm: mobile-first database",
+      "desciption": "A server-less database that runs directly on the phone. Seems easy to use. Supports Swift.",
+      "image": "/cloud/c5I7GC1w_400x400.png",
+      "link": "http://realm.io/"
+    },
+    {
+      "title": "Facebook Pop",
+      "desciption": "Facebook Pop is a fantastic library for easily creating spring animations in iOS. This is the library that was used to power the Facebook Paper.",
+      "image": "/cloud/Screen%20Shot%202014-06-16%20at%202.26.32%20PM.png",
+      "link": "https://github.com/facebook/pop"
+    },
+    {
+      "title": "iOS Design Guidelines",
+      "desciption": "A well-curated list of all the Apple materials specifically for design. You can find a ton of resources and best practices that will get you started efficiently. It's also great for your understanding of design in general.",
+      "image": "/cloud/design.png",
+      "link": "https://developer.apple.com/design/"
+    },
+    {
+      "title": "Student Developer Pack",
+      "desciption": "A fantastic initiative by GitHub to help students with a ton of free software.",
+      "image": "/cloud/developerpack.png",
+      "link": "https://education.github.com/pack"
+    },
+    {
+      "title": "iOS Dev Weekly",
+      "desciption": "A really well-made weekly newsletter that sends out the biggest news and resources for iOS design and development.",
+      "image": "/cloud/Screen%20Shot%202014-06-16%20at%202.23.03%20PM.png",
+      "link": "http://iosdevweekly.com/"
+    },
+    {
+      "title": "15 Days of Animations in Swift",
+      "desciption": "Wanna learn more iOS animation? This is a great resource for that!",
+      "image": "https://designcode.io/cloud/may6/8.jpg",
+      "link": "https://github.com/larrynatalicio/15DaysofAnimationsinSwift?utm_source=DesignCode"
+    },
+    {
+      "title": "How To Make An iPhone App",
+      "desciption": "CodeWithChris released their free guide to making a Swift app for beginners, touching on Playgrounds, Autolayout and more.",
+      "image": "/cloud/HowToMakeAnApp_001_thumb.jpg",
+      "link": "http://codewithchris.com/how-to-make-an-iphone-app"
+    },
+    {
+      "title": "Swift Toolbox",
+      "desciption": "An awesome community-driven site with a healthy list of libraries for Swift.",
+      "image": "https://designcode.io/cloud/Rq1tEak-_400x400.png",
+      "link": "http://www.swifttoolbox.io/"
+    },
+    {
+      "title": "Swifty - Code Swift on your iPhone",
+      "desciption": "Learn the Swift language directly on your iPhone.",
+      "image": "https://designcode.io/cloud/learnswiftapp.png",
+      "link": "https://itunes.apple.com/us/app/swifty-learn-to-code-in-swift!/id886315617?mt=8&ign-mpt=uo%3D4"
+    },
+    {
+      "title": "30 Days of Swift",
+      "desciption": "30 Swift projects made by a designer and shared on GitHub. Great for learning.",
+      "image": "https://designcode.io/cloud/feb18/2.jpg",
+      "link": "https://github.com/allenwong/30DaysofSwift"
+    },
+    {
+      "title": "CocoaPods",
+      "desciption": "CocoaPods is THE library management for iOS. You can quickly find projects that you can import to your own or simply open and analyze the content.",
+      "image": "/cloud/twitter-icon.png",
+      "link": "http://cocoapods.org/"
+    },
+    {
+      "title": "Swiftris - Build Your First iOS Game",
+      "desciption": "A lot of us dream of building our very own iOS game. This is a good start.",
+      "image": "https://designcode.io/cloud/swiftris.png",
+      "link": "https://www.bloc.io/swiftris-build-your-first-ios-game-with-swift"
+    }
+  ],
+  "Prototyping Tools": [
+    {
+      "title": "Origami 2.0 - Prototyping Tool",
+      "desciption": "Origami was just updated with Sketch and Live Preview and code support.",
+      "image": "https://designcode.io/cloud/march12/851566_660590633980390_118769389_n.jpg",
+      "link": "http://facebook.github.io/origami/"
+    },
+    {
+      "title": "Prototyping Animation with Keynote",
+      "desciption": "There's no denying that Keynote is a beautiful presentation software. But if you spend a little more time on it, you can even figure out how to prototype with it.",
+      "image": "/cloud/prototypeinkeynote.jpg",
+      "link": "http://robots.thoughtbot.com/animating-with-keynote"
+    },
+    {
+      "title": "Framer Studio",
+      "desciption": "Framerjs just released a Mac app to help you build prototypes with more ease.",
+      "image": "/cloud/icon-generator.png",
+      "link": "http://framerjs.com/"
+    },
+    {
+      "title": "CREO: Native App Design and Development Reinvented",
+      "desciption": "This shiny new tool lets you prototype and build apps with more ease than Xcode. It’s like Storyboard inside an app.",
+      "image": "https://designcode.io/cloud/jan21/9.jpg",
+      "link": "http://creolabs.com/"
+    },
+    {
+      "title": "Form: Instant Native Prototypes",
+      "desciption": "A powerful prototyping tool that uses a much improved version of the mechanics found in Quartz Composer. Form is completely native and allows you to preview directly on your devices. Get the free trial.",
+      "image": "/cloud/formsproto.png",
+      "link": "http://www.relativewave.com/form.html"
+    },
+    {
+      "title": "Principle – Animate Your Ideas",
+      "desciption": "Insanely simple prototyping tool. In about 5 minutes, I managed to get something animated. We’re really lucky to have this.",
+      "image": "https://designcode.io/cloud/sep3/8.jpg",
+      "link": "http://principleformac.com/"
+    },
+    {
+      "title": "Prototyping with iAd Producer",
+      "desciption": "Who knew you could prototype with iAd Producer. Looks very impressive.",
+      "image": "https://designcode.io/cloud/july23/6.jpg",
+      "link": "http://www.lindadong.com/blog/prototyping-with-iad-producer"
+    },
+    {
+      "title": "Flinto for Mac",
+      "desciption": "One of the best prototyping tools just went native, with a Sketch plugin and an iOS app for previewing.",
+      "image": "https://designcode.io/cloud/sep3/7.jpg",
+      "link": "https://www.flinto.com/mac"
+    }
+  ],
+  "Productivity Mac Apps": [
+    {
+      "title": "Hype 3 Professional",
+      "desciption": "Played a little with this. This tool has so much potential. Allows you to quickly animate things and export to HTML 5.",
+      "image": "https://designcode.io/cloud/mar25/hype3.jpg",
+      "link": "http://tumult.com/hype/pro/"
+    },
+    {
+      "title": "CloudApp",
+      "desciption": "I've been using CloudApp for 2 years now. It's a really effective way to share images and videos online. The auto-upload screenshots and Web viewing experience are some of the features that set this app apart.",
+      "image": "/cloud/CloudApp-Icon-512x512.png",
+      "link": "https://itunes.apple.com/us/app/cloud/id417602904?mt=12&uo=4&at=1l3vnyT"
+    },
+    {
+      "title": "Giphy for Mac",
+      "desciption": "This app lets you screencapture anything into a GIF.",
+      "image": "https://designcode.io/cloud/apr19/8.jpg",
+      "link": "https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984?mt=12?utm_source=DesignCode"
+    },
+    {
+      "title": "Noun Project for Mac",
+      "desciption": "Drag and drop vector icons to Sketch from this Mac app, which has over 100K icons in its collection.",
+      "image": "https://designcode.io/cloud/april6/4.jpg",
+      "link": "https://thenounproject.com/for-mac/"
+    },
+    {
+      "title": "Lingo for Mac",
+      "desciption": "You can store all your visual assets, which can be easily dragged to Sketch.",
+      "image": "https://designcode.io/cloud/mar23/13.jpg",
+      "link": "https://www.lingoapp.com/"
+    },
+    {
+      "title": "Ulysses 2.0",
+      "desciption": "My favorite writing app just launched 2.0. You’ll love the export feature.",
+      "image": "https://designcode.io/cloud/march12/id623795237.jpg",
+      "link": "https://itunes.apple.com/us/app/ulysses-iii/id623795237?mt=12&uo=4&at=1l3vnyT"
+    },
+    {
+      "title": "LiceCap",
+      "desciption": "The strangiest, yet simplest and most effective GIF creating tool you can find.",
+      "image": "/cloud/Image%202014-06-16%20at%2011.59.12%20AM.png",
+      "link": "http://www.cockos.com/licecap/"
+    },
+    {
+      "title": "Fantastical",
+      "desciption": "I use Fantastical for adding quick todos and setting up calendar events in a natural language: Tea at 1pm Saturday. Boom.",
+      "image": "/cloud/Image%202014-06-16%20at%2011.58.43%20AM.png",
+      "link": "https://itunes.apple.com/us/app/fantastical-calendar-reminders/id435003921?mt=12&uo=4&at=1l3vnyT"
+    },
+    {
+      "title": "PaintCode",
+      "desciption": "PaintCode is useful to turn drawings into code and manipulate them for UI and animations.",
+      "image": "/cloud/paintcode_icon.png",
+      "link": "http://www.paintcodeapp.com/"
+    },
+    {
+      "title": "Product Hunt for Mac",
+      "desciption": "Get the latest products directly on your Mac's menu bar.",
+      "image": "https://designcode.io/cloud/apr28/3.jpg",
+      "link": "https://www.producthunt.com/apps/mac?utm_source=DesignCode"
+    },
+    {
+      "title": "Dash - Offline API Documentation",
+      "desciption": "An indispensable tool for developers to check documentations offline for languages such as Angular, Swift, CSS, etc.",
+      "image": "/cloud/dashapp.png",
+      "link": "http://kapeli.com/dash"
+    },
+    {
+      "title": "Screenflow",
+      "desciption": "Screenflow may look like a dated and scary tool at first, but it's truly a gem. You cannot find a better screencasting tool out there. It's so good that you can use this for editing all your videos as well. Really intuitive and powerful UI.",
+      "image": "/cloud/Screenflow3-Icon.jpg",
+      "link": "https://itunes.apple.com/us/app/screenflow-4/id573279886?mt=12&uo=4&at=1l3vnyT"
+    },
+    {
+      "title": "Iconjar",
+      "desciption": "Promising new app for managing icons. Check out their freebies.",
+      "image": "https://designcode.io/cloud/may13/6.jpg",
+      "link": "http://geticonjar.com/"
+    },
+    {
+      "title": "Pixave 2",
+      "desciption": "Since Ember has been discontinued, this is easily the best replacement.",
+      "image": "https://designcode.io/cloud/mar23/7.jpg",
+      "link": "http://www.littlehj.com/"
+    },
+    {
+      "title": "Atom 1.0",
+      "desciption": "A big milestone of the code editor by GitHub. Check out their video.",
+      "image": "https://designcode.io/cloud/july2/6.jpg",
+      "link": "https://atom.io/"
+    },
+    {
+      "title": "Google Analytics by Email",
+      "desciption": "Get beautiful analytics in your inbox daily, weekly and monthly. The amount of data is impressively well-organized.",
+      "image": "/cloud/Screen%20Shot%202014-06-29%20at%206.16.40%20PM.png",
+      "link": "http://xtra.ga/"
+    }
+  ],
+  "Find Inspiration": [
+    {
+      "title": "Medium",
+      "desciption": "Medium is a platform for creative thinkers. You can find quality articles just about everything.",
+      "image": "/cloud/Screen%20Shot%202014-06-16%20at%2011.15.28%20AM.png",
+      "link": "https://medium.com/"
+    },
+    {
+      "title": "Dribbble",
+      "desciption": "Dribbble is the best place to find inspiration for visual design. A lot of great designers are posting there regularly.",
+      "image": "/cloud/Screen%20Shot%202014-06-16%20at%2011.15.55%20AM.png",
+      "link": "http://dribbble.com/"
+    },
+    {
+      "title": "Sidebar.io",
+      "desciption": "The best 5 design articles shared daily to your inbox.",
+      "image": "/cloud/Screen%20Shot%202014-06-18%20at%201.40.17%20AM.png",
+      "link": "http://sidebar.io/"
+    },
+    {
+      "title": "Design Resources from Bjango",
+      "desciption": "Very complete App Icon template for Sketch, Affinity Designer, Photoshop and Illustrator.",
+      "image": "https://designcode.io/cloud/feb1/5.jpg",
+      "link": "https://bjango.com/designresources/"
+    },
+    {
+      "title": "Product Hunt",
+      "desciption": "A fantastic site that promotes the best Web and mobile apps that are coming daily.",
+      "image": "/cloud/Screen%20Shot%202014-06-16%20at%2011.43.48%20AM.png",
+      "link": "http://producthunt.com/"
+    },
+    {
+      "title": "Oozled",
+      "desciption": "The best resources for designers. You can create your own collection and share with others.",
+      "image": "/cloud/Screen%20Shot%202014-06-16%20at%201.23.37%20AM.png",
+      "link": "http://oozled.com/"
+    },
+    {
+      "title": "Hey, Designer",
+      "desciption": "A site that consistently puts out the best design resources out there. Definitely follow their stream.",
+      "image": "/cloud/Screen%20Shot%202014-06-16%20at%2011.44.29%20AM.png",
+      "link": "http://heydesigner.com/"
+    },
+    {
+      "title": "Designer News",
+      "desciption": "Designers News is the best place to find daily articles about design and an active community behind it.",
+      "image": "/cloud/Screen%20Shot%202014-06-16%20at%2011.14.20%20AM.png",
+      "link": "https://designernews.co/"
+    },
+    {
+      "title": "Panda 4",
+      "desciption": "Panda, the newsfeed dashboard for designers just got a lot better. Definitely check out their new features.",
+      "image": "https://designcode.io/cloud/panda-face.png",
+      "link": "https://usepanda.com/"
+    }
+  ],
+  "Learn Colors": [
+    {
+      "title": "Color Template",
+      "desciption": "Understanding how colors work, how they complement each other and when to use them is crucial to the branding and usability of your app. First, I suggest reading this guide about colors. It explains the theory behind colors.",
+      "image": "/cloud/Screen%20Shot%202014-06-16%20at%2011.08.22%20AM.png",
+      "link": "http://www.rocket-design.fr/color-template/"
+    },
+    {
+      "title": "Adobe Kuler",
+      "desciption": "Adobe Kuler is pretty smart at detecting the colors from your images and customize the palette of your choice.",
+      "image": "/cloud/Screen%20Shot%202014-06-16%20at%2011.08.54%20AM.png",
+      "link": "https://kuler.adobe.com/"
+    },
+    {
+      "title": "Sip for Mac and iPhone",
+      "desciption": "Great tool for working with colors. Supports Swift.",
+      "image": "https://designcode.io/cloud/sipios.png",
+      "link": "http://theolabrothers.com/"
+    },
+    {
+      "title": "Skala Color 2.0",
+      "desciption": "An exceptional color picker with Swift and HEX support.",
+      "image": "https://designcode.io/cloud/march12/SkalaColor.jpg",
+      "link": "http://bjango.com/mac/skalacolor/"
+    },
+    {
+      "title": "Material Palette",
+      "desciption": "Quickly create your own Material color palette and see it apply to a design.",
+      "image": "https://designcode.io/cloud/materialpalette.png",
+      "link": "http://www.materialpalette.com/indigo/deep-purple"
+    },
+    {
+      "title": "Material Design - Color",
+      "desciption": "A fantastic guide about colors from Google's Material design.",
+      "image": "https://designcode.io/cloud/style_color_introduction.png",
+      "link": "http://www.google.com/design/spec/style/color.html"
+    }
+  ],
+  "Learn Typography": [
+    {
+      "title": "Peace Sans - Free",
+      "desciption": "For a free font, this is great. Go grab it.",
+      "image": "https://designcode.io/cloud/mar29/5.jpg",
+      "link": "https://www.behance.net/gallery/34760019/Peace-Sans-FREE-FONT?utm_source=DesignCodeNews"
+    },
+    {
+      "title": "Google Webfonts",
+      "desciption": "With Google Webfonts, you can download a limited selection of fonts for free and use them in your projects as you see fit. It's as good as it gets as far as free goes.",
+      "image": "/cloud/Screen%20Shot%202014-06-16%20at%2011.18.57%20AM.png",
+      "link": "http://www.google.com/fonts"
+    },
+    {
+      "title": "Guide to Pairing Fonts",
+      "desciption": "Typography has been established for a long time, and there is certainly much to learn about it. This guide is particularly helpful to help you pair fonts based on a set of criterias.",
+      "image": "/cloud/Image%202014-06-16%20at%2011.18.16%20AM.png",
+      "link": "http://webdesign.tutsplus.com/articles/a-beginners-guide-to-pairing-fonts--webdesign-5706"
+    },
+    {
+      "title": "Font Awesome Symbols for Sketch",
+      "desciption": "Opening this Sketch file will allow you to quickly insert a Font Awesome icon. Clever.",
+      "image": "/cloud/fontawesome.jpeg",
+      "link": "https://github.com/sethlilly/Font-Awesome-Symbols-for-Sketch"
+    },
+    {
+      "title": "Typography in 10 minutes",
+      "desciption": "Good typography makes us want to read, so it's best to focus on its utility. Let’s look at these 5 rules of good typography and apply them to modern design for mobile and for Websites.",
+      "image": "/cloud/Screen%20Shot%202014-06-16%20at%2011.17.07%20AM.png",
+      "link": "http://practicaltypography.com/typography-in-ten-minutes.html"
+    },
+    {
+      "title": "Bebas Neue",
+      "desciption": "Nice Helvetica replacement that comes for free. Must-download.",
+      "image": "https://designcode.io/cloud/feb1/11.jpg",
+      "link": "http://www.fontfabric.com/bebas-neue/"
+    },
+    {
+      "title": "Space Mono Font",
+      "desciption": "A new monospaced typeface available on Google Fonts.",
+      "image": "https://designcode.io/cloud/june22/1.jpg",
+      "link": "https://fonts.google.com/specimen/Space%20Mono?utm_source=DesignCode"
+    },
+    {
+      "title": "Type Genius - Find Matching Fonts",
+      "desciption": "Select your favourite font and Type Genius will suggest a matching font. Easy enough.",
+      "image": "/cloud/typegeniuslogo.png",
+      "link": "http://www.typegenius.com/"
+    },
+    {
+      "title": "Typography Guide",
+      "desciption": "If you'd like to learn more about combining typefaces, apostrophes, quotes, dashes and brackets, I suggest heading to typogui.de",
+      "image": "/cloud/Screen%20Shot%202014-06-16%20at%2011.17.30%20AM.png",
+      "link": "http://www.typogui.de/"
+    },
+    {
+      "title": "Typekit",
+      "desciption": "We're very lucky to have an extremely affordable service such as Typekit that is part of the Creative Cloud subscription. The selection is more limited compared to other services, but still very good. Perfect for those who are starting.",
+      "image": "/cloud/Screen%20Shot%202014-06-16%20at%2011.19.27%20AM.png",
+      "link": "https://typekit.com/"
+    },
+    {
+      "title": "Hand Lettering",
+      "desciption": "There is also a fascinating course for hand lettering. With these techniques, you can create logos, personal brands and explore typography in general.",
+      "image": "/cloud/Screen%20Shot%202014-06-16%20at%2011.18.34%20AM.png",
+      "link": "http://seanwes.com/learn/"
+    },
+    {
+      "title": "Google Noto Fonts",
+      "desciption": "Google now has a font family that works across devices and comes in 800 languages. Free download.",
+      "image": "https://designcode.io/cloud/oct12/3.jpg",
+      "link": "https://www.google.com/get/noto/"
+    },
+    {
+      "title": "Blokk: Font for wireframing",
+      "desciption": "Instead of using Lorem Ipsum for mockups, it’s best to use this font. Perfect for wireframing.",
+      "image": "https://designcode.io/cloud/blokk_units.png",
+      "link": "http://blokkfont.com/"
+    },
+    {
+      "title": "OpenFoundry",
+      "desciption": "Beautiful open-source fonts in well-crafted demos.",
+      "image": "https://designcode.io/cloud/mar16/11.jpg",
+      "link": "http://open-foundry.com/"
+    },
+    {
+      "title": "I love typography",
+      "desciption": "Beautiful and inspiring typography studies and weekly type recommendations. There are rare gems that I would never have found otherwise. As someone who knows little about the deep history of typography, this site comes in handy.",
+      "image": "/cloud/ilt-06-06-14.png",
+      "link": "http://ilovetypography.com/"
+    },
+    {
+      "title": "Cooper Hewitt - A beautiful free font",
+      "desciption": "A gorgeous typeface that is made free. A must download if you love typography.",
+      "image": "/cloud/Screen%20Shot%202014-06-29%20at%206.21.13%20PM.png",
+      "link": "http://www.cooperhewitt.org/colophon/cooper-hewitt-the-typeface-by-chester-jenkins/"
+    },
+    {
+      "title": "Input: font designed for code",
+      "desciption": "A great font specifically made for coding. Beautiful, smart and versatile.",
+      "image": "/cloud/input.jpeg",
+      "link": "http://input.fontbureau.com/"
+    }
+  ],
+  "Learn about Icons": [
+    {
+      "title": "Simple Icons",
+      "desciption": "All the logos from popular brands downloadable in SVG.",
+      "image": "https://designcode.io/cloud/oct22/1.jpg",
+      "link": "https://simpleicons.org/"
+    },
+    {
+      "title": "Stream Line",
+      "desciption": "A slightly more curvy and fun style to the iOS 7 theme. If you seek something a little different, this is it. The collection is humongous – it even has a Sketch file included, which is useful.",
+      "image": "/cloud/Screen%20Shot%202014-06-16%20at%2011.10.02%20AM.png",
+      "link": "http://www.streamlineicons.com/"
+    },
+    {
+      "title": "Simple Line Icons",
+      "desciption": "100+ simple line icons for web and UI design available for free; checks the preview file to see all the icons.",
+      "image": "/cloud/simple_line_icons_by_mirko_monti_dribbble_shot_1x.png",
+      "link": "https://dribbble.com/shots/1344983-Simple-Line-Icons-100-free-icons-Ai-Eps-Svg-Psd"
+    },
+    {
+      "title": "Pixel Love",
+      "desciption": "This icon set is perfectly aligned with the default iOS style. It is currently my favorite to use because of its clean look and elegant proportions.",
+      "image": "/cloud/Screen%20Shot%202014-06-16%20at%2011.09.35%20AM.png",
+      "link": "http://pixellove.com/"
+    },
+    {
+      "title": "Minimalistic Everyday Icons",
+      "desciption": "A free set of minimalistic icons up for grabs!",
+      "image": "https://designcode.io/cloud/april6/10.jpg",
+      "link": "http://matt-cooper.com/minimalistic-icons/"
+    },
+    {
+      "title": "A Juicy & Delicious Icon Set",
+      "desciption": "A good-looking and unique collection of 200 icons for only 9 bucks. Also available for Sketch.",
+      "image": "https://designcode.io/cloud/juicicons.png",
+      "link": "http://juicicons.com/"
+    },
+    {
+      "title": "Instant Logo Search",
+      "desciption": "An essential site for finding SVG logos for your designs.",
+      "image": "https://designcode.io/cloud/mar16/7.jpg",
+      "link": "http://instantlogosearch.com/"
+    },
+    {
+      "title": "Hawcons: Over 500 free icons",
+      "desciption": "Another large set of Fill and Solid icons. The Gestures, Emoji and Documents sets are good to have.",
+      "image": "/cloud/Image%202014-07-21%20at%201.22.06%20AM.png",
+      "link": "http://hawcons.com/"
+    },
+    {
+      "title": "SketchActive: free sets of 360 icons",
+      "desciption": "A useful set of free icons for Sketch ranging from iOS defaults to sweets, party and business.",
+      "image": "/cloud/Screen%20Shot%202014-07-13%20at%2010.17.56%20PM.png",
+      "link": "http://www.aegeank.com/sketchactive/"
+    },
+    {
+      "title": "2,086 icons for iOS, Android and Web",
+      "desciption": "A massive collection of icons for every need you can imagine.",
+      "image": "/cloud/iconsmind.png",
+      "link": "https://www.iconsmind.com/icons/"
+    },
+    {
+      "title": "Material icons - Google Design",
+      "desciption": "Google just updated their Material Design icons. Here’s a good download.",
+      "image": "https://designcode.io/cloud/june19/5.jpg",
+      "link": "http://www.google.com/design/icons"
+    },
+    {
+      "title": "Icons8 App With 26,000 Icons",
+      "desciption": "A huge library of icons easily accessibly from a Mac app.",
+      "image": "https://designcode.io/cloud/may24/9.jpg",
+      "link": "https://icons8.com/app/#/ios?utm_source=DesignCode"
+    },
+    {
+      "title": "440 Free Icons for Sketch",
+      "desciption": "Another great set of icons in line and solid modes. A nice change of style: bolder and more rounded.",
+      "image": "/cloud/Screen%20Shot%202014-07-14%20at%2011.21.59%20AM.png",
+      "link": "http://www.sketchappsources.com/free-source/624-free-icons-sketch-freebie-resource.html"
+    },
+    {
+      "title": "CompassCons: 300 free icons",
+      "desciption": "Very nice set of icons made with Sketch.",
+      "image": "https://designcode.io/cloud/compasscons.png",
+      "link": "http://dsaltaren.com/compass-cons/"
+    },
+    {
+      "title": "Simple Line Icons 2 for Sketch",
+      "desciption": "Over 100 icons made specifically for Sketch. And it's free.",
+      "image": "/cloud/simpelineicons2.png",
+      "link": "https://dribbble.com/shots/1739053-Simple-Line-Icons-2-100-free-icons?list=users&offset=0"
+    },
+    {
+      "title": "Evil Icons",
+      "desciption": "Nice collection of free SVG icons. Available for Sketch as well.",
+      "image": "https://designcode.io/cloud/evilicons.png",
+      "link": "http://evil-icons.io/"
+    },
+    {
+      "title": "Pixeden Icons",
+      "desciption": "The latest volume of our iOS7 tab bar icons series with 32 icons to help you design your next project with line or full icons style.",
+      "image": "/cloud/tab-bar-icons-ios-7-vol4-S.jpg",
+      "link": "http://www.pixeden.com/media-icons/tab-bar-icons-ios-7-vol5"
+    },
+    {
+      "title": "Citysets Icons",
+      "desciption": "Beautiful collections of icons based on the cities in the world.",
+      "image": "https://designcode.io/cloud/oct19/6.jpg",
+      "link": "http://citysets.co.uk/"
+    },
+    {
+      "title": "Dripicons V2",
+      "desciption": "Lovely (and free) set of 200 icons.",
+      "image": "https://designcode.io/cloud/mar29/11.jpg",
+      "link": "http://www.sketchappsources.com/free-source/1888-dripicons-200-icons-sketch-freebie-resource.html?utm_source=DesignCodeNews"
+    },
+    {
+      "title": "54 Free Sketch Icons",
+      "desciption": "Great set of pixel-perfect icons for iOS design.",
+      "image": "/cloud/quicons-dribbble.png",
+      "link": "https://dribbble.com/shots/1582227-Sketch-icons"
+    },
+    {
+      "title": "IconStore - Free Icon Packs",
+      "desciption": "Seriously awesome list of free icon packs. What a treat.",
+      "image": "https://designcode.io/cloud/july23/11.jpg",
+      "link": "http://iconstore.co/"
+    },
+    {
+      "title": "Kameleon, 1500 Icons That Changes Color",
+      "desciption": "A large collection of flat icons in multiple colors.",
+      "image": "https://designcode.io/cloud/kameleon.png",
+      "link": "http://www.kameleon.pics/"
+    },
+    {
+      "title": "Glyphish for WatchKit",
+      "desciption": "Beautiful Icon set for Apple Watch.",
+      "image": "https://designcode.io/cloud/march12/Glyphish.jpg",
+      "link": "http://glyphish.com/watchkit/"
+    },
+    {
+      "title": "850 Scalable Vector Line Icons",
+      "desciption": "A great collection of vector icons.",
+      "image": "/cloud/budicon.png",
+      "link": "http://budicon.buditanrim.co/"
+    },
+    {
+      "title": "Swifticons 2",
+      "desciption": "Beautiful set of icons that comes in 4 styles.",
+      "image": "https://designcode.io/cloud/mar29/14.jpg",
+      "link": "http://swifticons.com/?utm_source=DesignCodeNews"
+    },
+    {
+      "title": "to [icon]",
+      "desciption": "Over 1,100 SVG icons searchable on this fantastic site. For free. Perfect for Sketch.",
+      "image": "/cloud/toicon.png",
+      "link": "http://www.toicon.com/"
+    },
+    {
+      "title": "Lynny Icon Set - Free",
+      "desciption": "Hard to say no to a nice set of 450 icons like these.",
+      "image": "https://designcode.io/cloud/march12/lynny.jpg",
+      "link": "https://dribbble.com/shots/1925069-Lynny-Icon-Set-Free"
+    },
+    {
+      "title": "Flaticon: Over 59,000 Icons",
+      "desciption": "It's just mind-blowing how many icons there are in this site. And it's all searchable.",
+      "image": "/cloud/flaticon.png",
+      "link": "http://www.flaticon.com/"
+    },
+    {
+      "title": "Material Design Icons",
+      "desciption": "Google released their icon sets that you can use to design your Android UIs.",
+      "image": "/cloud/materialdesignicons.png",
+      "link": "https://github.com/google/material-design-icons/releases/tag/1.0.0"
+    },
+    {
+      "title": "300+ Free Flat Color Icons",
+      "desciption": "Colored icons in SVG format. You can import to Sketch and use Make Grid to organize them.",
+      "image": "https://designcode.io/cloud/apr27/7.jpg",
+      "link": "http://icons8.com/c/flat-color-icons"
+    },
+    {
+      "title": "Free 50 Flat Icon Pack - Squid Ink",
+      "desciption": "Neat collection of flat coloured 2000 icons. 50 of them are free.",
+      "image": "https://designcode.io/cloud/may13/5.jpg",
+      "link": "http://thesquid.ink/free-icons/"
+    },
+    {
+      "title": "SmartIcons - 1450 Free Icons",
+      "desciption": "Great collections of free icons both for Web and for Mobile.",
+      "image": "https://designcode.io/cloud/march12/1450.jpg",
+      "link": "http://www.iconeden.com/smarticons/index.html"
+    },
+    {
+      "title": "Free Icon Set",
+      "desciption": "A unique set of free icons. Definitely grab it.",
+      "image": "/cloud/free_icon_set.jpg",
+      "link": "https://dribbble.com/shots/1718718-Free-Icon-Set"
+    },
+    {
+      "title": "Pictos Redux",
+      "desciption": "A great looking set of icons made by Drew Wilson.",
+      "image": "https://designcode.io/cloud/pictosredux.png",
+      "link": "http://pictos.cc/"
+    },
+    {
+      "title": "The Bezier Game",
+      "desciption": "A clever game that allows you to learn how to create icons and vector graphics.",
+      "image": "/cloud/beziergame.png",
+      "link": "http://bezier.method.ac/"
+    },
+    {
+      "title": "Icon54",
+      "desciption": "A top notch set of 2100 icons for Mobile and Web.",
+      "image": "https://designcode.io/cloud/apr08/14.jpg",
+      "link": "https://icon54.com/?utm_source=DesignCode"
+    }
+  ],
+  "Use Sounds": [
+    {
+      "title": "dev_tones - 500+ UI Sounds",
+      "desciption": "A large collection of UI sounds that you can use for your app.",
+      "image": "https://designcode.io/cloud/Screen Shot 2014-11-26 at 11.14.46 PM.png",
+      "link": "http://rcptones.com/dev_tones/"
+    },
+    {
+      "title": "Sonics - Free UI Sounds",
+      "desciption": "Get free UI sounds to your inbox monthly. High quality stuff.",
+      "image": "https://designcode.io/cloud/april6/12.jpg",
+      "link": "http://www.sonics.io/"
+    },
+    {
+      "title": "Freesounds.org",
+      "desciption": "A really large collection of sounds for all kinds of purposes. The sounds are free and I would suggest using the Search to find the little gems.",
+      "image": "/cloud/Screen%20Shot%202014-06-16%20at%2011.38.18%20AM.png",
+      "link": "http://www.freesound.org/"
+    },
+    {
+      "title": "Octave",
+      "desciption": "A nice list of UI sounds that you can use for your iOS app.",
+      "image": "/cloud/Screen%20Shot%202014-06-16%20at%2011.37.14%20AM.png",
+      "link": "http://raisedbeaches.com/octave/"
+    }
+  ],
+  "Marketing": [
+    {
+      "title": "Advice on Building a Press List",
+      "desciption": "Dan Counsell, founder of RealMac Software, gives us a much needed insight on how to get media coverage by actively keeping contacts and sending emails.",
+      "image": "/cloud/Screen%20Shot%202014-07-27%20at%2011.17.02%20PM.png",
+      "link": "http://www.dancounsell.com/articles/advice-on-building-a-press-list"
+    },
+    {
+      "title": "App Review Monitor",
+      "desciption": "Useful tool for keeping track of the App Store reviews that you get.",
+      "image": "https://designcode.io/cloud/billboard-vb3b1e0b22475.png",
+      "link": "https://launchkit.io/reviews"
+    },
+    {
+      "title": "Brick by Brick",
+      "desciption": "Building a community for your app is crucial to its success. This free guide will help you.",
+      "image": "https://designcode.io/cloud/mar25/brickbybrick.jpg",
+      "link": "http://www.communitybuildingguide.com/"
+    },
+    {
+      "title": "App Making Guide",
+      "desciption": "After you put hundreds of hours building your app, you have to market it. This comprehensive guide will give you a head start by providing valuable insights and press kit templates.",
+      "image": "/cloud/appmakingguide.png",
+      "link": "http://www.tapity.com/app-making/"
+    },
+    {
+      "title": "How Much Should I Charge?",
+      "desciption": "Understanding the value of your work is important when it comes to freelance. This site does a good job at tell you.",
+      "image": "/cloud/howmuchcharge.png",
+      "link": "http://thenuschool.com/how-much"
+    }
+  ],
+  "Learn from iOS Courses": [
+    {
+      "title": "General Assembly",
+      "desciption": "The courses are expensive, but they run for 8-12 weeks and you get a proficient teacher that knows their materials. You can take the courses part-time or full-time.",
+      "image": "/cloud/uM8D51A3.png",
+      "link": "https://generalassemb.ly/"
+    },
+    {
+      "title": "Treehouse",
+      "desciption": "A comprehensive list of iOS courses for a monthly subscription. Treehouse is considered one of the best places to start learning about a variety of subject.",
+      "image": "/cloud/Image%202014-06-16%20at%2011.32.05%20AM.png",
+      "link": "http://teamtreehouse.com/"
+    },
+    {
+      "title": "TheCodePath",
+      "desciption": "They offer great introductory courses to learn iOS development that is approachable for designers. The courses show you how to use Interface Builder and how to build animations.",
+      "image": "/cloud/Screen%20Shot%202014-06-16%20at%2011.31.41%20AM.png",
+      "link": "http://thecodepath.com/"
+    },
+    {
+      "title": "50 Top-Drawer Websites to Learn Web Design and Development",
+      "desciption": "A ton of great courses for learning Web design and code.",
+      "image": "https://designcode.io/cloud/top-drawerweb.png",
+      "link": "http://blog.sellfy.com/websites-learn-web-design-and-development/"
+    }
+  ],
+  "UI": [
+    {
+      "title": "Pixel Perfect Precision Handbook",
+      "desciption": "A super detailed guide on pixel perfection.",
+      "image": "/cloud/pixelperfectionhandbook.png",
+      "link": "http://cdn.ustwo.com/PPP/PP3.pdf"
+    },
+    {
+      "title": "Pexels",
+      "desciption": "Fantastic source for stock photos. You can easily search the photos.",
+      "image": "https://designcode.io/cloud/Screen Shot 2014-11-27 at 10.47.45 PM.png",
+      "link": "http://www.pexels.com/"
+    },
+    {
+      "title": "UI Gradients",
+      "desciption": "iOS is known to use beautiful gradients. You can incorporate them inexpensively for your UIs by having two colors that complement each other.",
+      "image": "https://designcode.io/cloud/uigradients.png",
+      "link": "http://uigradients.com/"
+    },
+    {
+      "title": "7 Rules for Creating Gorgeous UI",
+      "desciption": "A well-written article about visual design and how to effectively use colors, lighting and spacing to create a nice UI.",
+      "image": "https://designcode.io/cloud/1*DTB4xeMLpg0DW6NLOYBehw.png",
+      "link": "https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda"
+    },
+    {
+      "title": "Designer's guide to DPI",
+      "desciption": "Excellent introduction to pixel density for both iOS and Android.",
+      "image": "https://designcode.io/cloud/mar7/2.jpg",
+      "link": "http://sebastien-gabriel.com/designers-guide-to-dpi/"
+    },
+    {
+      "title": "Material Design Lite",
+      "desciption": "Material Design is now made into a library for the Web. Released by Google.",
+      "image": "https://designcode.io/cloud/july23/13.jpg",
+      "link": "http://www.getmdl.io/"
+    },
+    {
+      "title": "Pttrns - iOS UI Patterns",
+      "desciption": "A super useful list of all the iOS UI patterns, from login screens to user on-boarding.",
+      "image": "/cloud/pttrns.png",
+      "link": "http://www.pttrns.com/"
+    },
+    {
+      "title": "Material Design is Different, Not Better",
+      "desciption": "Before you consider applying Material Design for everything, it’s important to consider its strengths and weaknesses.",
+      "image": "https://designcode.io/cloud/aug18/12.jpg",
+      "link": "https://medium.com/android-news/material-design-is-different-not-better-87909af6ffe1"
+    },
+    {
+      "title": "Design Details",
+      "desciption": "Design exploration to all the fine details of popular apps.",
+      "image": "https://designcode.io/cloud/mar7/3.jpg",
+      "link": "http://www.brianlovin.com/"
+    },
+    {
+      "title": "The Art of UI Animations",
+      "desciption": "Everything you need to know about UI animations.",
+      "image": "https://designcode.io/cloud/markgeyer.png",
+      "link": "http://markgeyer.com/pres/the-art-of-ui-animations"
+    },
+    {
+      "title": "100 Free High Resolution Photorealistic Mockups",
+      "desciption": "A massive list of resources for presenting your designs in realistic mockups.",
+      "image": "https://designcode.io/cloud/mockups_realistic_01.jpg",
+      "link": "http://speckyboy.com/2014/11/13/free-high-resolution-photorealistic-mockups/"
+    },
+    {
+      "title": "TETHR - UI Kit",
+      "desciption": "A wicked UI Kit made in Sketch and Photoshop. Free resource.",
+      "image": "https://designcode.io/cloud/march12/TETHR.jpg",
+      "link": "http://www.invisionapp.com/tethr"
+    },
+    {
+      "title": "On Visual Hierarchy",
+      "desciption": "A short but well-explained article on how to prioritize your design elements.",
+      "image": "https://designcode.io/cloud/july2/12.jpg",
+      "link": "http://www.reigndesign.com/blog/on-visual-hierarchy"
+    }
+  ],
+  "UX": [
+    {
+      "title": "UX Companion App",
+      "desciption": "If you want to learn all about UX, this is a nice app that'll explain all the theories, tools and principles.",
+      "image": "/cloud/uxcompanion.png",
+      "link": "http://www.uxcompanion.com/"
+    },
+    {
+      "title": "IDEO Design Kit",
+      "desciption": "A thorough guide to design, from inspiration to implementation from the design team at IDEO.",
+      "image": "/cloud/header-logo-573d5a81d96c25a676afad92d2357337.png",
+      "link": "http://www.designkit.org/methods"
+    },
+    {
+      "title": "Design Principles",
+      "desciption": "While it’s good to learn about techniques and trends, what reinforce them are your design principles.",
+      "image": "https://designcode.io/cloud/learn29/designprinciples.jpg",
+      "link": "http://learndesignprinciples.com/"
+    },
+    {
+      "title": "The Basics Of Designing Mobile Apps",
+      "desciption": "A nice introduction to designing for Mobile. Well-written and with a bunch of useful insights.",
+      "image": "https://designcode.io/cloud/basicsofdesigningmobile.jpg",
+      "link": "http://www.designyourway.net/blog/inspiration/the-basics-of-designing-mobile-apps/"
+    },
+    {
+      "title": "Techies Project",
+      "desciption": "An incredibly diverse list of interviews that touches on important and delicate topics.",
+      "image": "https://designcode.io/cloud/apr08/5.jpg",
+      "link": "http://www.techiesproject.com/?utm_source=DesignCode"
+    },
+    {
+      "title": "Mobile Is Eating the World",
+      "desciption": "If this doesn't convince you to design for mobile, then I don't know what will.",
+      "image": "https://designcode.io/cloud/mobileiseatingtheworld.png",
+      "link": "http://a16z.com/2014/10/28/mobile-is-eating-the-world"
+    }
+  ],
+  "Videos": [
+    {
+      "title": "Elements of Design",
+      "desciption": "A gorgeous video showing perfectly executed animations and transitions. Fantastic inspiration for your iOS app.",
+      "image": "/cloud/Screen%20Shot%202014-07-17%20at%201.04.22%20PM.png",
+      "link": "http://vimeo.com/99876106"
+    },
+    {
+      "title": "Animation basics: The art of timing and spacing",
+      "desciption": "Great TED video explaining the basics of animation in a very illustrative way.",
+      "image": "https://designcode.io/cloud/artofanimation.png",
+      "link": "https://www.youtube.com/watch?v=KRVhtMxQWRs&feature=youtu.be"
+    },
+    {
+      "title": "THE GAP by Ira Glass",
+      "desciption": "One of the most important videos to watch for creative people.",
+      "image": "/cloud/thegapbyiraglass.png",
+      "link": "http://vimeo.com/85040589"
+    },
+    {
+      "title": "AltConf 2015 Videos",
+      "desciption": "A long list of videos to watch next to the WWDC videos from influential designers and developers.",
+      "image": "https://designcode.io/cloud/july23/1.jpg",
+      "link": "https://realm.io/altconf"
+    },
+    {
+      "title": "The illusion of life",
+      "desciption": "A must-watch for lovers of animations. While not everything can be used for UI animations, the principles are worth considering.",
+      "image": "https://designcode.io/cloud/illusionoflife.png",
+      "link": "http://vimeo.com/93206523"
+    }
+  ],
+  "Web": [
+    {
+      "title": "CSS Animation for Beginners",
+      "desciption": "A great intro to CSS animations for beginners.",
+      "image": "https://designcode.io/cloud/cssanimationbeginners.png",
+      "link": "http://robots.thoughtbot.com/css-animation-for-beginners"
+    },
+    {
+      "title": "Pace: Automatic page load progress bar",
+      "desciption": "A beautiful loading indicator for your Website with a few lines of code.",
+      "image": "/cloud/paceloading.png",
+      "link": "http://github.hubspot.com/pace/docs/welcome/"
+    },
+    {
+      "title": "Simple Responsive Charts",
+      "desciption": "Creating dynamic charts for your Website can be a daunting task. This is a great library that will solve your problem.",
+      "image": "https://designcode.io/cloud/chartistjs.png",
+      "link": "http://gionkunz.github.io/chartist-js/"
+    },
+    {
+      "title": "uilang - Minimal, UI-focused code for Web designers",
+      "desciption": "A simple, beautifully crafted scripting language for Web designers. Great for prototyping.",
+      "image": "https://designcode.io/cloud/uilang.png",
+      "link": "http://uilang.com/"
+    },
+    {
+      "title": "voxel.css",
+      "desciption": "Powerful new framework that allows you to create 3D with CSS transitions.",
+      "image": "https://designcode.io/cloud/feb1/4.jpg",
+      "link": "http://voxelcss.com/"
+    },
+    {
+      "title": "Dynamics.js",
+      "desciption": "A very cool library for creating physics-based animations in Javascript.",
+      "image": "https://designcode.io/cloud/june19/10.jpg",
+      "link": "http://dynamicsjs.com/"
+    },
+    {
+      "title": "CSS Icon",
+      "desciption": "512 icons written completely in CSS for you to use.",
+      "image": "https://designcode.io/cloud/oct19/2.jpg",
+      "link": "http://cssicon.space/"
+    },
+    {
+      "title": "CSS Reference by Codrops",
+      "desciption": "A really well-designed site for referencing the CSS properties, all explained with images and code sample.",
+      "image": "https://designcode.io/cloud/codropscssref.png",
+      "link": "http://tympanus.net/codrops/css_reference/"
+    },
+    {
+      "title": "9 basic principles of responsive web design",
+      "desciption": "Understanding responsive design has never been this important. Now, we have to design for countless devices, all with different resolutions.",
+      "image": "/cloud/Responsive-Cover-02-2.jpg",
+      "link": "http://blog.froont.com/9-basic-principles-of-responsive-web-design/"
+    },
+    {
+      "title": "Meteor 1.0",
+      "desciption": "If you're looking to build a Web app from scratch, Meteor is the perfect framework. With a few lines of code, you can create powerful apps using solid templates.",
+      "image": "https://designcode.io/cloud/meteor1.0.png",
+      "link": "https://www.meteor.com/"
+    },
+    {
+      "title": "Anime.js",
+      "desciption": "You can do pretty crazy animations with this.",
+      "image": "https://designcode.io/cloud/july6/3.jpg",
+      "link": "http://anime-js.com/?utm_source=DesignCode"
+    },
+    {
+      "title": "Background Blur CSS",
+      "desciption": "Apple used the Webkit Backdrop Filters for their new Apple Watch site. Learn how to do it.",
+      "image": "https://designcode.io/cloud/mar23/1.jpg",
+      "link": "https://twitter.com/MengTo/status/712154750465286144"
+    },
+    {
+      "title": "Popmotion - JavaScript animation, physics and input tracking",
+      "desciption": "Looks like a powerful javascript animation library with touch input support.",
+      "image": "https://designcode.io/cloud/oct6/4.jpg",
+      "link": "http://popmotion.io/"
+    },
+    {
+      "title": "SVG Loaders",
+      "desciption": "A beautiful list of loading animations made in SVG.",
+      "image": "https://designcode.io/cloud/svgloaders.png",
+      "link": "http://samherbert.net/svg-loaders/"
+    },
+    {
+      "title": "A-Frame - Building blocks for the virtual reality web",
+      "desciption": "VR is coming to the Web. This is how to start.",
+      "image": "https://designcode.io/cloud/june8/7.jpg",
+      "link": "https://aframe.io/?utm_source=DesignCode"
+    }
+  ]
+}
